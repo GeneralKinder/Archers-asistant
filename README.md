@@ -1,2 +1,2 @@
-# Archer-s-asistant
+# Archers-asistant
 this is my new project 
